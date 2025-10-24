@@ -15,7 +15,7 @@ Example:
 
 __version__ = "1.0.0"
 __author__ = "Rojin Dhami"
-__email__ = "your.email@example.com"
+__email__ = "rojindhami98@gmail.com"
 
 from .churn_predictor import CustomerChurnPredictor
 
