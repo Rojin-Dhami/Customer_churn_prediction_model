@@ -1,6 +1,0 @@
-for better eda,
-https://www.kaggle.com/code/shakhoyatshujon/exploring-telco-churn-eda-for-learners
-model,
-https://www.kaggle.com/code/ajiprakoso/churn-customer-model-prediction
-balanced,
-https://www.kaggle.com/code/yaninakostiv/customer-churn-prediction-with-ml-logreg-rf-xgb
