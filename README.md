@@ -254,7 +254,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Rojin Dhami**
 
 - GitHub: [@Rojin-Dhami](https://github.com/Rojin-Dhami)
-- LinkedIn: [Connect with me](www.linkedin.com/in/rojin-dhami-575730347)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/rojin-dhami-575730347)
 - Email: rojindhami@gmail.com
 
 ## 🙏 Acknowledgments
